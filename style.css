@@ -1,1 +1,48 @@
-style.css
+.font{
+    font-family: 'Kanit', sans-serif;
+}
+h1{
+    font-size: 60px; 
+   
+    font-family: 'Playfair Display', serif;
+}
+.mission{
+    color: coral;
+}
+.one-section{
+    display: flex;
+    padding-left: 150px;
+    padding-right: 0px;
+    
+}
+.one-section img{
+    width: 80%;
+}
+a{
+    text-decoration: none;
+    background-color: rgb(248, 90, 69);
+    padding: 15px 40px ;
+    border-radius: 5px;
+    display: block;
+    color: cornsilk;
+    font-size: 20px;
+    font-family: 'Kanit', sans-serif;
+}
+h3{
+    text-align: justify;
+    padding-right: 200px;
+}
+#canter{
+    text-align: center;
+}
+#tow-section{
+    display: flex;
+}
+#tow-section img{
+    width: 20%;
+}
+.mata{
+    font-family: 'Quicksand', sans-serif;
+    text-align: justify;
+    background-color: sandybrown;
+}

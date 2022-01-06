@@ -194,3 +194,41 @@ color: rgb(0, 208, 245);
 display: block;
 padding-top:20px ;
 }
+#ex-mark{
+    font-family: system-ui, system-ui, sans-serif;
+    font-size: 35Px;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+}
+#ex-mark{
+    text-align: center;
+    display: block;
+    padding-bottom: 40px;
+    text-shadow: 10px 10px 10px rgb(120, 124, 124);
+
+}
+.ext-mark-of{
+    background-color:rgb(210, 252, 250);
+    margin-left: 4%;
+    margin-right: 4%;
+    border-radius: 30px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    margin-top:60px;
+    margin-bottom: 80px;
+    box-shadow: 10px 10px 10px rgb(112, 109, 109);
+}
+.flx{
+    display: flex;
+    padding-left: 200px;
+}
+#submit{
+    text-align: center;
+    padding-top: 35px; 
+   
+}
+.boxx{
+padding-left: 10px;
+padding-right: 10px;
+
+}
